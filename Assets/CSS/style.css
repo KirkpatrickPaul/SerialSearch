@@ -84,3 +84,10 @@ h5 {
 .not-found {
   width: 400px;
 }
+
+input[type="checkbox"]:checked + span:not(.lever)::before {
+  border:2px solid transparent;
+  border-bottom:2px solid red;
+  border-right:2px solid red;
+  background:transparent;
+}
