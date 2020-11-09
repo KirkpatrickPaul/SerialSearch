@@ -4,45 +4,20 @@ Users are smart, they know how to "google" something, but there value with havin
 
 ## Description
 
-This website provides users with a simple tool to find information/entertainment related to their favorite serial killers. Using the OMDB API, and WIKI API, we were able to create a website capable of finding all available Movies, TV, and Books on an killer of the users choosing, with the help of materialize and JQUERY, we were able to create a dynamic fully functional MVP that meets all of the projects acceptance criteria. 
 
-## User Story 
-
-AS A individual with nothing to do.
-I WANT to be able to find data on my favorite serial killers.
-SO THAT I can spend countless nights unable sleep.
-
-
-## Application Requirements
-
-* Use a CSS framework other than Bootstrap.
-
-* Be deployed to GitHub Pages.
-
-* Be interactive (i.e., accept and respond to user input).
-
-* Use at least two server-side APIs.
-
-* Does not use alerts, confirms, or prompts (use modals).
-
-* Use client-side storage to store persistent data.
-* Be responsive.
-
-* Have a polished UI.
-
-* Have a clean repository that meets quality coding standards (file structure, naming conventions, follows best practices for class/id naming conventions, indentation, quality comments, etc.).
-
-* Have a quality README (with unique name, description, technologies used, screenshot, and link to deployed application).
+$erial.search provides users with a simple tool to find information/entertainment related to their favorite serial killers. The website is able to find all available Movies, TV, and Books on an killer of the users choosing.
 
 ## Links
 
-#### Project repository: https://github.com/Henryrjung/SerialSearch
-#### Deployed website: https://henryrjung.github.io/SerialSearch/
+#### Project repository: https://github.com/kirkpatrickpaul/SerialSearch
+
+#### Deployed website: https://kirkpatrickpaul.github.io/SerialSearch/
 
 ## Screenshots
+
 #### Initial search screen
 
-![Image 1](./assets/images/search_screen.PNG)
+![Image 1](./assets/images/Search_Screen.PNG)
 
 #### Page after searching for a serial killer
 
@@ -52,8 +27,9 @@ SO THAT I can spend countless nights unable sleep.
 
 ![Image 1](./assets/images/favorites_page.PNG)
 
-## Roadmap
+## The Future of $erial.search
 
+#### The following are things we would like to add...at some point
 * Geo location of murder victims.
 * Number indicating total active serial killers.
 * Narrowing search parameters to serial killers exclusively.
@@ -63,22 +39,17 @@ SO THAT I can spend countless nights unable sleep.
 ## Credits
 
 ### contributors
-* Matt Pewewardy
-* Kaylee Horner
-* Paul Kirkpatrick
-* Henry Jung
 
-* TA Travis Morris
+- Matt Pewewardy
+- Kaylee Horner
+- Paul Kirkpatrick
+- Henry Jung
 
-### Technologies User
+- With help from Travis Morris
 
-* Materialize(CSS Framework)
-* JQuery/JavaScript
-* OMDB API (for Movies and TV)
-* WIKI API (to fetch a short bio and picture of each individual profile)
-* Moment.js
+### Sources
 
-
-
-
-
+- Materialize
+- JQuery
+- OMDB API (for Movies and TV)
+- WIKI API (to fetch a short bio and picture of each individual profile)
